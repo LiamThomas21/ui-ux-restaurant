@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-### [Live Site](https://liamt-ui-ux-restaurant)
+### [Live Site](https://liamt-ui-ux-restaurant.vercel.app)
 
 ![Restaurant Landing Page](src/assets/preview.png)
 
