@@ -1,7 +1,7 @@
 # Restaurant Landing Page
 ### [Live Site](https://liamt-ui-ux-restaurant.vercel.app)
 
-![Restaurant Landing Page](src/assets/preview.png)
+![Restaurant Landing Page](preview.png)
 
 ## Breakdown
 ### Welcome to Gericht, a stunning restaurant website designed to captivate customers and viewers. This UI/UX project, built in React, focuses on maximizing the potential of React Functional components and their reusability.
